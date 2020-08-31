@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn)](https://www.linkedin.com/in/gdfreitas)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&logo=Twitter)](https://twitter.com/gabrieldfreitas)
-[![E-mail](https://img.shields.io/static/v1?label=gdfreitasdev@gmail.com&message=%20&logo=gmail)](mailto:gdfreitasdev@gmail.com) <img src="http://visitor-badge.glitch.me/badge?page_id=gdfreitas.gdfreitas">
+[![E-mail](https://img.shields.io/static/v1?label=gdfreitasdev@gmail.com&message=%20&logo=gmail)](mailto:gdfreitasdev@gmail.com)
 
 ☕🚴‍♂️ Hey! I am Gabriel Freitas, born in 96, and been in contact with Web Technologies since 2013, where I found myself improving open source games that I used to play along with my friends.
 
